@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/db_test
+    username: root
+    password: root
+
+mybatis:
+  type-aliases-package: com.foresight.mybatis.bean
+
+
+
+
+
+
+
+
+
